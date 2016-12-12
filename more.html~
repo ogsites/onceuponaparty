@@ -1,0 +1,109 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+	<html>
+	<head>
+	    <meta http-equiv="Content-type" content="text/html; charset=UTF-8" />
+	    <title>Once Upon A Party Index</title>
+	    <meta http-equiv="Content-Language" content="en-us" />
+	     
+	    <meta http-equiv="imagetoolbar" content="no" />
+            <meta name="MSSmartTagsPreventParsing" content="true" />
+	     
+	    <meta name="description" content="Description" />
+	    <meta name="keywords" content="Keywords" />
+	     
+	    <meta name="author" content="Orchid Glade" />
+	     
+
+            <style type="text/css" media="all">@import "css/master.css";</style>  <style type="text css"        media="all">@import "css/master.css";</style>
+
+	</head>
+	 
+	<body>
+        	<div id="page-container">
+     
+		 					<div id="header"> 
+		 						<img src="images/headerimage.jpg"width=800>
+		 						
+		 					 		
+		 					</div>
+	
+							<div id="main-nav">
+			<a href="index.html">Home</a><a href="about.html">About</a> <a href="entertainment.html">Entertainment</a><a href="booking.html">Booking</a><a href="contact.html">Contact Us</a><a href="more.html">Upcoming Events</a>
+					
+				
+							</div>
+<img src="images/small.jpg" class="id-footer"><img src="images/small.jpg"class="id-footer"><img src="images/small.jpg"class="id-footer"><img src="images/small.jpg"class="id-footer"><img src="images/small.jpg"class="id-footer"><img src="images/small.jpg"class="id-footer"><img src="images/smallbit.jpg"class="id-footer">
+	
+							<div id="content-container">
+	          
+								<div id="content">
+									<b>	Upcoming Events</b>
+<br/>
+ 
+		
+				
+                </div>		
+		<div id="contentblue">
+									<b>Tutu Workshop</b>
+ 
+
+
+<br/>
+Once Upon A Party & Orchid Glade Present...<br/>
+Make A Tutu Session!
+<br/>   
+Come and join our princesses on Saturday 30th January 2016 at Stokes cafe at the collection in Lincoln!
+12-3pm 
+<br/>It takes approximately 1-1 1/2 hours so drop in at any time
+<br/>£6.95 0-12 years
+£7.95 12-adult
+<br/>Tickets available and advised but you can just drop in on the day!
+Children need to be accompanied by an adult who can help them.
+Refreshments available to purchase at the cafe!
+ <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="TV3HP2Y6PQUVQ">
+<table>
+<tr><td><input type="hidden" name="on0" value="Age">Buy Tickets</td></tr><tr><td><select name="os0">
+	<option value="0-12yrs">0-12yrs £6.95 GBP</option>
+	<option value="12yrs-Adult">12yrs-Adult £7.95 GBP</option>
+	<option value="1 Adult + 1 Child">1 Adult + 1 Child £14.90 GBP</option>
+</select> </td></tr>
+</table>
+<input type="hidden" name="currency_code" value="GBP">
+<input type="image" src="https://www.paypalobjects.com/en_US/GB/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal – The safer, easier way to pay online.">
+<img alt="" border="0" src="https://www.paypalobjects.com/en_GB/i/scr/pixel.gif" width="1" height="1">
+</form>
+		
+				
+                </div>
+										
+								
+
+				      </div>
+				       	
+		                
+		        
+		        	<div id="content-clearer">
+		       		
+			</div>
+	
+	
+
+		<div id="footer">
+		
+
+ 	
+		<a href="http://www.orchidglade.co.uk"><img src= images/og.jpg class="id-footer" ></a>Designed by © <a href="http://www.orchidglade.co.uk">Orchid Glade </a>2015
+		<br/>
+		
+		</p>
+		</div>
+
+
+       </div>
+
+
+	</body>
+	</html>
